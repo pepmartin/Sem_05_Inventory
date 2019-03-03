@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">inventory</string>
+    <string name="et_name">Nombre</string>
+    <string name="et_description">Descripción</string>
+        <string name="et_quantity">Cantidad</string>
+    <string name="item_add">Agregar</string>
+    <string name="item_save">Guardar</string>
+    <string name="item_search">Search</string>
+</resources>
